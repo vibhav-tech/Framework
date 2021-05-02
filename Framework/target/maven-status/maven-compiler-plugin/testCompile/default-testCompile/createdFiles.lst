@@ -1,0 +1,8 @@
+com\pages\Search_addtocart_item_page.class
+com\Utilities\Configdataprovider.class
+com\pages\Baseclass.class
+com\Testcases\Itemcount_incart_checkout.class
+com\pages\linkcountpage.class
+com\Utilities\Exceldataprovider.class
+com\Utilities\BrowserFactory.class
+com\Utilities\Helper.class

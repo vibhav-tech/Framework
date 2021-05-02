@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Setting up reports and Test is getting ready]]>
+    </line>
+    <line>
+      <![CDATA[Setting Done and Test can be Started]]>
+    </line>
+    <line>
+      <![CDATA[Trying to start the browser and getting application ready]]>
+    </line>
+    <line>
+      <![CDATA[Browser and Application up and Running]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to End]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed>>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to End]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed>>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to End]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed>>> Reports Generated]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="60311" started-at="2021-05-02T11:23:05Z" finished-at="2021-05-02T11:24:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="60311" started-at="2021-05-02T11:23:05Z" finished-at="2021-05-02T11:24:05Z">
+      <class name="com.Testcases.Itemcount_incart_checkout">
+        <test-method status="PASS" signature="setupsuite()[pri:0, instance:com.Testcases.Itemcount_incart_checkout@67b6d4ae]" name="setupsuite" is-config="true" duration-ms="2759" started-at="2021-05-02T16:53:02Z" finished-at="2021-05-02T16:53:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Setting up reports and Test is getting ready]]>
+            </line>
+            <line>
+              <![CDATA[Setting Done and Test can be Started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupsuite -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Testcases.Itemcount_incart_checkout@67b6d4ae]" name="setup" is-config="true" duration-ms="24727" started-at="2021-05-02T16:53:05Z" finished-at="2021-05-02T16:53:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Trying to start the browser and getting application ready]]>
+            </line>
+            <line>
+              <![CDATA[Browser and Application up and Running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="printtitle()[pri:1, instance:com.Testcases.Itemcount_incart_checkout@67b6d4ae]" name="printtitle" duration-ms="1922" started-at="2021-05-02T16:53:30Z" finished-at="2021-05-02T16:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printtitle -->
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.Testcases.Itemcount_incart_checkout@67b6d4ae]" name="tearDownMethod" is-config="true" duration-ms="3265" started-at="2021-05-02T16:53:32Z" finished-at="2021-05-02T16:53:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=printtitle status=SUCCESS method=Itemcount_incart_checkout.printtitle()[pri:1, instance:com.Testcases.Itemcount_incart_checkout@67b6d4ae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to End]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed>>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="totallinksonpage()[pri:2, instance:com.Testcases.Itemcount_incart_checkout@67b6d4ae]" name="totallinksonpage" duration-ms="448" started-at="2021-05-02T16:53:35Z" finished-at="2021-05-02T16:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totallinksonpage -->
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.Testcases.Itemcount_incart_checkout@67b6d4ae]" name="tearDownMethod" is-config="true" duration-ms="1525" started-at="2021-05-02T16:53:35Z" finished-at="2021-05-02T16:53:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=totallinksonpage status=SUCCESS method=Itemcount_incart_checkout.totallinksonpage()[pri:2, instance:com.Testcases.Itemcount_incart_checkout@67b6d4ae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to End]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed>>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="Enteritem_checkout()[pri:3, instance:com.Testcases.Itemcount_incart_checkout@67b6d4ae]" name="Enteritem_checkout" duration-ms="24969" started-at="2021-05-02T16:53:37Z" finished-at="2021-05-02T16:54:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Enteritem_checkout -->
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.Testcases.Itemcount_incart_checkout@67b6d4ae]" name="tearDownMethod" is-config="true" duration-ms="1629" started-at="2021-05-02T16:54:02Z" finished-at="2021-05-02T16:54:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Enteritem_checkout status=SUCCESS method=Itemcount_incart_checkout.Enteritem_checkout()[pri:3, instance:com.Testcases.Itemcount_incart_checkout@67b6d4ae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to End]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed>>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.Testcases.Itemcount_incart_checkout@67b6d4ae]" name="teardown" is-config="true" duration-ms="1745" started-at="2021-05-02T16:54:04Z" finished-at="2021-05-02T16:54:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Testcases.Itemcount_incart_checkout -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
